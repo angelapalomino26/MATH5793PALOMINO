@@ -11,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/angelapalomino26/MATH5793PALOMINO
 BugReports: https://github.com/angelapalomino26/MATH5793PALOMINO/issues
+RoxygenNote: 7.1.1
